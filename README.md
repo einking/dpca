@@ -1,5 +1,6 @@
 Forked from https://codeload.github.com/colinwke/dpca/zip/master
 # density peak clustering algorithm
+# Clustering by fast search and find of density peaks
 
 python implement with sklearn manner.
 
